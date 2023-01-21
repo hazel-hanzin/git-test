@@ -5,3 +5,6 @@ function add(x, y) {
 }
 
 add(2, 3);
+
+
+alert('Hi')
